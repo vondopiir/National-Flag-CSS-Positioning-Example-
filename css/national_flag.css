@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: rgb(28, 135, 197);
+}
+
+/************************** BD Flag Starts ***************************/
+.bd_flag_parent{
+    width: 60%;
+    height: 60vh;
+    background-color: #006400;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-left: 20%;
+}
+
+.bd_flag_child{
+    width: 30%;
+    height: 65%;
+    background-color: #FF0000;
+    border-radius: 50%;
+    position: absolute;
+    left: 30%;
+}
+
+/************************** BD Flag Ends ***************************/
+
+
+/************************** Peru Flag Starts ***************************/
+
+.peru_flag_parent{
+    width: 60%;
+    height: 60vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-left: 20%;
+}
+
+.peru_flag_child-1{
+    width: 33%;
+    height: 100%;
+    background-color: #DA071E;
+    position: absolute;
+    left: 0; 
+}
+.peru_flag_child-2{
+    width: 34%;
+    height: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    left: 33%; 
+}
+
+.peru_flag_child-3{
+    width: 33%;
+    height: 100%;
+    background-color: #DA071E;
+    position: absolute;
+    left: 67%; 
+}
+
+/************************** Peru Flag Ends ***************************/
+
+/************************** Japan Flag Starts ***************************/
+.japan_flag_parent{
+    width: 60%;
+    height: 60vh;
+    background-color: #FFFFFF;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-left: 20%;
+}
+
+.japan_flag_child{
+    width: 30%;
+    height: 65%;
+    background-color: #BD0029;
+    border-radius: 50%;
+    position: absolute;
+    left: 35%;
+}
+
+/************************** Japan Flag Ends ***************************/
+
+
+/************************** Palau Flag Starts ***************************/
+
+.palau_flag_parent{
+    width: 60%;
+    height: 60vh;
+    background-color: #009AFF;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-left: 20%;
+}
+
+.palau_flag_child{
+    width: 30%;
+    height: 65%;
+    background-color: #FFFF00;
+    border-radius: 50%;
+    position: absolute;
+    left: 30%;
+}
+
+/************************** Palau Flag Ends ***************************/
+
+
+/************************** Nigeria Flag Starts ***************************/
+
+.nigeria_flag_parent{
+    width: 60%;
+    height: 60vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-left: 20%;
+}
+
+.nigeria_flag_child-1{
+    width: 33%;
+    height: 100%;
+    background-color: #008850;
+    position: absolute;
+    left: 0; 
+}
+.nigeria_flag_child-2{
+    width: 34%;
+    height: 100%;
+    background-color: #FFFFFF;
+    position: absolute;
+    left: 33%; 
+}
+
+.nigeria_flag_child-3{
+    width: 33%;
+    height: 100%;
+    background-color: #008850;
+    position: absolute;
+    left: 67%; 
+}
+
+/************************** Nigeria Flag Ends ***************************/
